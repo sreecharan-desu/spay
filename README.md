@@ -24,3 +24,7 @@ npm run build
 ## env
 
 none required to start. next-auth needs its usual variables once providers are configured.
+
+
+## Consistency & Discipline
+This project is maintained regularly to ensure documentation clarity and code quality. Small, daily improvements are prioritized over large, infrequent updates.
